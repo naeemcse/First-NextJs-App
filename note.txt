@@ -1,0 +1,6 @@
+Here is the descrption of the folder used in this folder 
+
+1. .next :  This is the mother folder of next js 
+2. node_modules : it contais .bin , extension that is essential for nextJS 
+3. Public :  It contais public file like image or ther thing that uses in pages 
+4. src : it the main root folder that contais all other useable folder on it . It contain Global CSS , Layout.ja and pages.js and like them . \
